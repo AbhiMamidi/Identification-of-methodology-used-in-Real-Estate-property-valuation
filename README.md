@@ -1,0 +1,1 @@
+This project aims to identify and evaluate various methodologies used in the valuation of real estate properties. The goal is to understand the different approaches, compare their accuracy and applicability, and provide insights for better decision-making in property valuation.
